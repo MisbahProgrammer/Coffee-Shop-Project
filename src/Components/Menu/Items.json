@@ -1,0 +1,35 @@
+[
+    {
+        "img" : "/Rectangle 7.png",
+        "name": "Cappuccino",
+        "ingredients":"Coffee 50% | Milk 50%",
+        "price" : "$8.50",
+        "btn" : "Order Now",
+        "id" : "1"
+
+    },
+    {
+        "img" : "/Rectangle 9.png",
+        "name": "Chai Latte",
+        "ingredients":"Coffee 50% | Milk 50%",
+        "price" : "$8.50",
+        "btn" : "Order Now",
+        "id" : "2"
+    },
+    {
+        "img" : "/Rectangle 11.png",
+        "name": "Macchiato",
+        "ingredients":"Coffee 50% | Milk 50%",
+        "price" : "$8.50",
+        "btn" : "Order Now",
+        "id" : "3"
+    },
+    {
+        "img" : "/Rectangle 13.png",
+        "name": "Expresso",
+        "ingredients":"Coffee 50% | Milk 50%",
+        "price" : "$8.50",
+        "btn" : "Order Now",
+        "id" : "4"
+    }
+]
