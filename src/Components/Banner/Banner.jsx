@@ -2,7 +2,7 @@ import React from 'react'
 
 function Banner() {
   return (
-    <div className=' bg-[url("public/Rectangle-14.png")] bg-cover bg-no-repeat w-full h-[50vh] -z-50 relative'>
+    <div className=' bg-[url("public/Rectangle-14.png")] bg-cover bg-no-repeat w-full h-[50vh] -z-50 relative mt-20'>
       <div className='w-full h-[50vh] absolute bg-[#603809] opacity-55 z-0 '></div>
       <div className='w-full h-[50vh] absolute bg-[url("coffee_bean.png")] bg-no-repeat left-[74%] z-10 '></div>
       <img src="cup.png" alt="" className='w-[300px] h-auto absolute top-8 left-[78%] z-20 '/>
