@@ -7,6 +7,7 @@ import Why from './Components/Why/Why'
 import Banner from './Components/Banner/Banner'
 import Feedback from './Components/Feedback/Feedback'
 import Newsletter from './Components/Newsletter/Newsletter'
+import Footer from './Components/Footer/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -20,6 +21,7 @@ function App() {
       <Banner/>
       <Feedback/>
       <Newsletter/>
+      <Footer/>
     </>
   )
 }

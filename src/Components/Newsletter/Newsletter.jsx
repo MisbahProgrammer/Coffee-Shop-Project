@@ -12,8 +12,8 @@ function Newsletter() {
             <input type="submit" value="Subscribe" className='bg-[#F9C06A] py-5 px-5 font-bold playfair rounded-r-lg'/>
         </div>
         </div>
-        <img src="pngwing-1.png" alt="" className='absolute -bottom-36'/>
-        <img src="pngwing-2.png" alt="" className='absolute right-0 -bottom-36'/>
+        <img src="pngwing-1.png" alt="" className='absolute -bottom-36 z-50'/>
+        <img src="pngwing-2.png" alt="" className='absolute right-0 -bottom-36 z-50'/>
     </div>
   )
 }
