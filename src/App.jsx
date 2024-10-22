@@ -6,6 +6,7 @@ import Menu from './Components/Menu/Menu'
 import Why from './Components/Why/Why'
 import Banner from './Components/Banner/Banner'
 import Feedback from './Components/Feedback/Feedback'
+import Newsletter from './Components/Newsletter/Newsletter'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
       <Why/>
       <Banner/>
       <Feedback/>
+      <Newsletter/>
     </>
   )
 }
