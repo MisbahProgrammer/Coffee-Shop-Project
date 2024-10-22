@@ -4,6 +4,7 @@ import Home from './Components/Home/Home'
 import About1 from './Components/About1/About1'
 import Menu from './Components/Menu/Menu'
 import Why from './Components/Why/Why'
+import Banner from './Components/Banner/Banner'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -14,6 +15,7 @@ function App() {
       <About1/>
       <Menu/>
       <Why/>
+      <Banner/>
     </>
   )
 }
