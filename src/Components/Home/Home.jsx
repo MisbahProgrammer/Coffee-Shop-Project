@@ -8,7 +8,7 @@ function Home() {
           <img src="Bean Scene.png" alt="" />
         </div>
         <div>
-          <ul className="md:flex md:items-center md:justify-center md:gap-14 text-white text-xl">
+          <ul className="hidden md:flex md:items-center md:justify-center md:gap-14 text-white text-xl">
             <li>
               <a href="" className="hover:text-[#F9C06A]">
                 Home
@@ -41,10 +41,10 @@ function Home() {
         </div>
       </header>
       {/* ----------------------------------------- */}
-      <div className="flex items-left justify-around flex-col h-[50%] w-[30%] md:mt-52 md:ml-56 text-white playfair">
-        <p className="text-2xl mb-5">We’ve got your morning covered with</p>
+      <div className="flex items-left justify-around flex-col gap-5 ml-20 h-[50%] w-[30%] md:mt-52 md:ml-56 text-white playfair">
+        <p className="text-xl md:text-2xl mb-5">We’ve got your morning covered with</p>
         <img src="Coffee.png" alt="" className="p-3 m-3" />
-        <p className="playfair text-xl">
+        <p className="playfair md:text-xl">
           It is best to start your day with a cup of coffee. Discover the best
           flavours coffee you will ever have. We provide the best for our
           customers.
